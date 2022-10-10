@@ -1,0 +1,7 @@
+.clearfix.d-flex.d-md-block.flex-items-center {
+    display: none;
+}
+
+*{
+    border: 1px solid red
+}
