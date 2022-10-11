@@ -12,7 +12,7 @@ I am passionate about creating products and am a fan of the web and design. I co
 <div align="center">
   <a href="https://github.com/genarogg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genarogg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genarogg&layout=compact&langs_count=7&theme=dark&hide=html,HTML"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genarogg&layout=compact&langs_count=8&theme=dark&hide=html,HTML"/>
 </div>
 
 [comment]: <Lenguajes que utilizo>
@@ -52,6 +52,12 @@ I am passionate about creating products and am a fan of the web and design. I co
 <a href="https://github.com/genarogg/tareas-mern-vista" >
   <img align="center" style="margin-bottom: 10px;" margin-bottom='10' src="https://github-readme-stats.vercel.app/api/pin/?username=genarogg&repo=tareas-mern-vista&theme=dark" />
 </a>
+<a href="https://github.com/genarogg/tareas-mern-servidor" >
+  <img align="center" style="margin-bottom: 10px;" margin-bottom='10' src="https://github-readme-stats.vercel.app/api/pin/?username=genarogg&repo=tareas-mern-servidor&theme=dark" />
+</a>
+<br/>
+
+
 <a href="https://github.com/genarogg/Pics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genarogg&repo=Pics&theme=dark" />
 </a>
