@@ -12,7 +12,7 @@ I am passionate about creating products and am a fan of the web and design. I co
 <div align="center">
   <a href="https://github.com/genarogg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genarogg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genarogg&layout=compact&langs_count=7&theme=dark?hide=html,HTML"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genarogg&layout=compact&langs_count=7&theme=dark&hide=html,HTML"/>
 </div>
 
 [comment]: <Lenguajes que utilizo>
