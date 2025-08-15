@@ -48,7 +48,10 @@ I am passionate about creating products and am a fan of the web and design. I co
 </div>
 <div align="center">
 <br/><br/>
-
+<a href="h[ttps://github.com/genarogg/tareas-mern-vista](https://github.com/genarogg/react-pdf-levelup)" >
+  <img align="center" style="margin-bottom: 10px;" margin-bottom='10' src="https://github-readme-stats.vercel.app/api/pin/?username=genarogg&repo=react-pdf-levelup&theme=dark" />
+</a>
+<br/>
 <a href="https://github.com/genarogg/tareas-mern-vista" >
   <img align="center" style="margin-bottom: 10px;" margin-bottom='10' src="https://github-readme-stats.vercel.app/api/pin/?username=genarogg&repo=tareas-mern-vista&theme=dark" />
 </a>
